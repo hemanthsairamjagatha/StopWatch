@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #0d186e00;
+}
+
+.stopwatch{
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.buttons button{
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 0px 10px;
+    cursor: pointer;
+    border: none;
+    background-color: #28af2f;
+    color: #0d3f51;
+    border-radius: 5px;
+}
+
+.buttons button:hover{
+    background-color: #a79249;
+}
